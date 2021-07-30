@@ -1,1 +1,3 @@
-Python exercise for Udacity_SUSE Program
+Python exercise for Udacity_SUSE Program.
+
+Glory to God
